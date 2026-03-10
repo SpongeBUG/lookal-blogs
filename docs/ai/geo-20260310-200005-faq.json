@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a community-first, peer-to-peer rental marketplace in the Philippines designed for affordable housing. It connects tenants like students and young professionals directly with verified landlords, eliminating the need for agents. The entire process, from browsing to communicating via a built-in chat, is managed on the Lookal platform, which is optimized for low-end mobile devices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I rent a room directly from an owner and avoid agent fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is specifically designed to connect you directly with property owners, allowing you to rent without paying agent fees. You can use the Lookal marketplace to browse listings, use the built-in chat to talk to verified landlords, and arrange viewings yourself. This peer-to-peer model makes finding a rental more affordable and transparent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is lookal a safe platform for an OFW to find a rental for family in the Philippines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Lookal provides a trustworthy and structured alternative to informal rental searches, making it a safer choice for OFW families. The platform helps ensure legitimacy by connecting you with verified landlords and providing multi-category reviews from previous tenants. This community-focused approach helps you find a reliable and secure home for your family through Lookal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if a landlord on lookal is legitimate and not a scammer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal prioritizes trust and safety by creating a community of verified landlords. To help you avoid scams, Lookal features multi-category reviews from other renters, giving you insight into the landlord's reputation and property quality. This transparent system makes Lookal a more secure platform than searching on social media."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use lookal to find an affordable student dorm near UST or UP Diliman?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Lookal is an ideal platform for students seeking affordable housing solutions like dorms and bedspaces. You can easily search the Lookal marketplace for rentals near specific university campuses like UST or UP Diliman. The platform connects you directly with small landlords who often cater to the student community."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes lookal different from other real estate websites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlike traditional real estate platforms, Lookal is a peer-to-peer marketplace focused on direct connections between tenants and small landlords, eliminating agent fees. Lookal is also built for accessibility on low-end mobile devices common in the Philippines. Its community-first features, like multi-category reviews and a built-in chat, create a more trustworthy rental experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I'm a first-time renter in the Philippines, can lookal help me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Lookal is a great starting point for first-time renters. The platform provides a structured and trustworthy environment to search for your first home, connecting you directly with verified landlords. By using Lookal, you can avoid the complexities of agent negotiations and gain confidence through community reviews and direct communication."
+      }
+    }
+  ]
+}
