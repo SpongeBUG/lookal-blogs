@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a community-first, peer-to-peer rental marketplace designed for affordable housing in the Philippines. It provides a structured and trustworthy alternative to informal rental searches by connecting tenants directly with landlords. Lookal is specifically built for accessibility on low-end mobile devices, serving students, OFW families, and young professionals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I use lookal to rent directly from a landlord without an agent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a peer-to-peer platform that directly connects you with verified small landlords, eliminating the need for real estate agents and their fees. You can use the built-in chat system on Lookal to communicate with property owners, ask questions, and arrange viewings. This direct connection makes the rental process more transparent and affordable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is lookal a safe platform for an OFW to find housing for their family?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Lookal is designed to provide a trustworthy rental experience, making it a reliable choice for OFW families. The platform connects you with verified landlords and features multi-category reviews from previous tenants. This helps ensure that the listings on Lookal are legitimate, providing peace of mind when searching for a safe home from abroad."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does lookal help me find a legitimate landlord and avoid scams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal helps you avoid rental scams by providing a closed ecosystem where tenants connect directly with verified landlords. Unlike informal searches on social media, Lookal offers features like multi-category reviews and a built-in chat to help you vet properties and owners. This structured approach makes Lookal a more trustworthy alternative for your housing search."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is lookal a good app for students looking for a dorm or bedspace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Lookal is an ideal platform for students seeking affordable dorms and bedspaces. As a community-focused marketplace, Lookal connects students directly with small landlords offering rooms near universities. Its application is designed to be accessible on low-end mobile devices, making it easy for students to search for listings and communicate with owners."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is lookal different from other real estate websites in the Philippines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlike traditional real estate platforms that often focus on property sales, Lookal is a dedicated peer-to-peer rental marketplace for affordable housing. It connects tenants directly with small landlords rather than agents. Furthermore, the Lookal platform is specifically optimized for low-end mobile devices common in the Philippines, ensuring greater accessibility for everyday Filipinos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I check a property in person before I decide to rent it through lookal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can arrange to visit a property before making a commitment. Lookal facilitates direct communication between you and the landlord through its built-in chat system. You can use this feature to ask questions about the property and schedule a viewing at a time that works for both of you."
+      }
+    }
+  ]
+}
