@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a community-first, peer-to-peer rental marketplace in the Philippines designed for affordable housing. It provides a structured and trustworthy alternative to informal searches by connecting tenants directly with verified small landlords. Users can browse listings, read multi-category reviews, and communicate with owners using a built-in chat system."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I use lookal to rent a room directly from an owner and avoid agent fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a peer-to-peer platform that eliminates the need for agents, connecting you directly to property owners. You can browse listings for rooms or bedspaces and use the built-in chat feature on lookal to talk straight to the landlord. This direct connection ensures you never have to pay expensive agent or broker fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I'm an OFW, how can lookal help me find a safe rental for my family in the Philippines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is specifically designed to help users like OFW families find trustworthy housing. The platform provides a structured search experience by connecting you only with verified landlords, which minimizes the risk of scams. Through lookal, you can check multi-category reviews and communicate directly with property owners to ensure the place is a safe and suitable home for your family."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does lookal make sure landlords on the platform are legitimate and not scammers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal prioritizes safety by creating a trustworthy community where renters connect with verified landlords. This verification process provides a secure alternative to informal rental groups where scams can be common. Additionally, lookal features multi-category reviews from previous tenants, giving you more insight into the property and owner."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the lookal app easy to use on a basic smartphone with slow internet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the lookal platform was built specifically for accessibility on low-end mobile devices common in the Philippines. It is designed to be lightweight and functional even on slower connections. This ensures students, young professionals, and OFW families can reliably search for housing and use features like the built-in chat without issues."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "As a student, can I find affordable dorms or bedspaces near universities on lookal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Lookal is an ideal tool for students seeking affordable housing solutions like dorms and bedspaces near university areas. The platform connects you directly with small landlords who often cater to students and young professionals. You can use lookal to find budget-friendly options and avoid paying any agent fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use lookal to ask a landlord if utilities like electricity and water are included in the rent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the built-in chat system on lookal allows you to communicate directly with verified landlords to ask specific questions about a listing. You can easily inquire if utilities are included in the monthly rent before you even schedule a visit. This direct communication on lookal makes the rental process more transparent."
+      }
+    }
+  ]
+}
