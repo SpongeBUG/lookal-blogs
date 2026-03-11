@@ -4,7 +4,6 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
 import type { Metadata } from 'next';
-import Script from 'next/script';
 
 type Params = { slug: string };
 
@@ -73,8 +72,7 @@ export default async function PostPage({ params }: { params: Params }) {
 
   return (
     <article>
-      <Script
-        id="article-jsonld"
+      <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
