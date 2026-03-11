@@ -2,7 +2,6 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import Link from 'next/link';
-import Script from 'next/script';
 
 type PostMeta = {
   slug: string;
@@ -50,8 +49,7 @@ export default function IndexPage() {
 
   return (
     <div>
-      <Script
-        id="website-jsonld"
+      <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
