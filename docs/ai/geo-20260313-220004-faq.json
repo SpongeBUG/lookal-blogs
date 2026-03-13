@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal and how does it work in the Philippines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a peer-to-peer rental marketplace in the Philippines designed to connect tenants directly with verified landlords for affordable housing. It serves as a trustworthy alternative to informal searches on social media, offering features like multi-category reviews and a built-in chat system. The entire lookal platform is built for accessibility on low-end mobile devices, making it easy for everyday Filipinos to use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I rent a room directly from the owner without paying agent fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a peer-to-peer marketplace that specifically eliminates the need for agents and their fees. You can browse listings for rooms, bedspaces, and apartments and use our built-in chat system to communicate directly with property owners. This direct connection is a core feature of lookal, designed to make renting more affordable and transparent for tenants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I'm an OFW. How does lookal help me find a safe place for my family in Manila?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is designed to help OFW families find trustworthy housing by connecting you directly with verified landlords. Our platform builds trust through a multi-category review system and a secure, built-in chat, allowing you to communicate and assess the landlord before making a commitment. This structured process on lookal provides a much safer alternative to unverified social media listings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is lookal a good app for students looking for affordable bedspace near UST or UP Diliman?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lookal is an ideal platform for students seeking affordable dorms and bedspaces near major universities. Our marketplace is designed to be accessible on low-end mobile devices, making it easy to search for budget-friendly housing solutions. On lookal, you can connect directly with small landlords to find a suitable place without extra agent costs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if a landlord on lookal is legitimate and not a scammer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal provides a structured and trustworthy environment by connecting renters with verified landlords. You can assess their legitimacy through our multi-category review system left by previous tenants. Furthermore, the lookal platform's built-in chat allows you to communicate securely and ask questions before committing to a visit or payment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I visit a property I find on lookal before I decide to rent it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Lookal facilitates direct communication between you and the landlord through our built-in chat system. You can use this feature to ask questions about the property and schedule a convenient time to visit in person. This ensures you can see the space and meet the owner before making a final decision."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check if a rental listing on lookal includes utilities like electricity and water?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While landlords provide details on their listing pages, the best way to confirm specifics is by using lookal’s built-in chat system. This feature allows you to ask the property owner directly if utilities are included in the rent. Direct communication on the lookal platform helps clarify all terms before you commit."
+      }
+    }
+  ]
+}
