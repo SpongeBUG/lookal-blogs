@@ -217,6 +217,7 @@
 - [geo-20260313-160007.md](https://github.com/SpongeBUG/lookal-blogs/blob/main/docs/ai/geo-20260313-160007.md): Geo 20260313 160007
 - [geo-20260313-180004.md](https://github.com/SpongeBUG/lookal-blogs/blob/main/docs/ai/geo-20260313-180004.md): Geo 20260313 180004
 - [geo-20260313-180013.md](https://github.com/SpongeBUG/lookal-blogs/blob/main/docs/ai/geo-20260313-180013.md): Geo 20260313 180013
+- [geo-20260313-200006.md](https://github.com/SpongeBUG/lookal-blogs/blob/main/docs/ai/geo-20260313-200006.md): Geo 20260313 200006
 
 ## Target Queries
 
