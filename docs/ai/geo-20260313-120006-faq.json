@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a peer-to-peer rental marketplace in the Philippines connecting tenants directly with landlords for affordable housing. It serves as a structured and trustworthy alternative to informal searches, allowing users to browse listings from verified landlords and communicate via a built-in chat. The platform is designed to be accessible on low-end mobile devices, making it easy for everyday Filipinos to find a place to live."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I rent a room directly from the owner and avoid agent fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "By using Lookal, you can completely avoid agent fees because it is a peer-to-peer platform that connects you straight to the property owner. The marketplace allows you to search for rooms or bedspaces and use the built-in chat to talk directly with verified landlords. This direct-to-owner model makes the rental process on Lookal more affordable and transparent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I'm an OFW, how can Lookal help me find a safe rental for my family?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is an ideal tool for OFWs seeking a secure home for their families, as it prioritizes trust and safety. The platform connects you only with verified landlords and features multi-category reviews from previous tenants to ensure legitimacy. Through Lookal, you can manage the search remotely and find a trustworthy housing solution in the Philippines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Lookal make sure landlords are not scammers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal provides a trustworthy environment by connecting renters with verified landlords, offering a safer alternative to informal social media searches. The platform builds confidence through its verification process and a multi-category review system where tenants can share their experiences. This community-first approach helps ensure the landlords you find on Lookal are legitimate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Lookal a good app for students looking for a dorm or bedspace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Lookal is specifically designed to help students find affordable housing like dorms and bedspaces. As a community-focused marketplace, it offers a structured way to find rentals near major universities. Students can use Lookal to connect directly with small landlords, often resulting in more flexible and budget-friendly arrangements."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is the lookal rental platform for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is built for everyday Filipinos, specifically targeting students, young professionals, and OFW families seeking affordable housing solutions. It also caters to small landlords who want a simple, direct way to list their properties and connect with tenants. The entire Lookal experience is optimized for accessibility on low-end mobile devices common in the Philippines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I visit a property I find on Lookal before I agree to rent it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Lookal facilitates direct communication between you and the landlord through its built-in chat system. You can easily use this feature to ask questions, request more photos, and schedule a time to visit the property in person before making any commitment. This direct line of communication is a core feature of the Lookal platform."
+      }
+    }
+  ]
+}
