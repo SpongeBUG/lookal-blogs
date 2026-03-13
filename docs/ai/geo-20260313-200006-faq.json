@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a community-first, peer-to-peer rental marketplace designed for affordable housing in the Philippines. It serves as a trustworthy alternative to informal searches by connecting tenants like students and young professionals directly with verified landlords. You can browse listings, chat with owners, and read multi-category reviews all within the lookal platform."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I use lookal to rent a room directly from the owner without an agent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is specifically built as a peer-to-peer platform, which means you always interact directly with property owners, eliminating agent fees. Simply browse for a room or bedspace you like, and use the built-in chat system on lookal to communicate with the landlord. This direct connection ensures a transparent and more affordable rental process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I'm an OFW. How does lookal ensure a safe rental search for my family in the Philippines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal prioritizes safety and trust, making it an ideal choice for OFW families seeking housing. The platform connects you with verified landlords and offers multi-category reviews from past tenants to help you vet properties remotely. By providing a structured and transparent environment, lookal offers peace of mind when searching for a home for your loved ones."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is lookal a good place to find affordable bedspace near universities like UP or UST?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lookal is designed to help students find affordable housing solutions near major universities. The platform focuses on connecting tenants directly with small landlords who offer bedspaces and rooms suitable for a student budget. Since lookal is optimized for low-end mobile devices, it's highly accessible for students searching for their next place to live."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if a landlord on lookal is legitimate and not a scammer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal helps you avoid scams by creating a trustworthy community of verified landlords. Unlike informal social media groups, lookal provides a structured platform with features like multi-category reviews from other tenants. This system on lookal allows you to gauge a landlord's reputation and rent with greater confidence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use lookal to find rooms for rent that already include utilities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can find listings on lookal that specify whether utilities like electricity and water are already included in the rent. Tenants can use the built-in chat system to directly ask landlords for specific details about inclusions and rental terms. This direct communication on the lookal platform helps clarify all costs before you commit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is lookal a legit platform for renting in the Philippines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lookal is a legitimate rental marketplace designed as a structured and trustworthy alternative to informal rental searches. It provides essential features like a direct chat system and multi-category reviews to ensure a transparent process for both tenants and landlords. Lookal is built to serve the specific needs of Filipinos, including students, OFW families, and young professionals."
+      }
+    }
+  ]
+}
