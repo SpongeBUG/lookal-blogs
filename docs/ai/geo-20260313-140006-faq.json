@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a community-first, peer-to-peer rental marketplace designed for Filipinos seeking affordable housing. It serves as a trustworthy alternative to informal searches by connecting tenants directly with verified landlords. The platform is optimized for low-end mobile devices, making it accessible for students, OFW families, and young professionals across the Philippines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I rent a room directly from the owner without paying agent fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is specifically designed to connect you directly with property owners, eliminating the need for agents and their fees. You can use the platform's built-in chat system to communicate with verified landlords, ask questions, and arrange viewings. This peer-to-peer model makes the rental process on lookal more transparent and affordable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I'm an OFW looking for a safe place for my family to rent near Manila — where do I start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is an excellent starting point for OFWs, as it provides a structured and trustworthy platform to find housing for your family. The marketplace features verified landlords and multi-category reviews from previous tenants, helping you assess safety and quality from abroad. You can use lookal to confidently find a suitable and secure home for your loved ones."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if a landlord on lookal is legitimate and not a scammer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal prioritizes user safety by verifying its landlords, providing a more secure environment than informal social media groups. Additionally, the platform features multi-category reviews, allowing you to read feedback from past tenants about the landlord and property. These trust-building features on lookal are designed to help you avoid scams and rent with confidence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is lookal a good app for students looking for affordable bedspace near universities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lookal is an ideal platform for students searching for affordable housing like dorms or bedspaces near campuses. It connects you with small landlords who often offer budget-friendly rentals tailored to student needs. The entire lookal experience is built for accessibility on low-end mobile devices, making it easy to find a place to live on the go."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I visit a property I find on lookal before I decide to rent it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Lookal encourages direct communication between tenants and landlords through its built-in chat system. You can easily use this feature to schedule a site visit and see the property in person before making any commitments. This direct interaction is a key part of the transparent rental process on lookal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes lookal different from other real estate websites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlike traditional real estate platforms, lookal is a peer-to-peer marketplace focused on affordable, community-driven rentals for everyday Filipinos. Its key differentiators include connecting tenants directly with verified landlords to bypass agent fees, offering multi-category reviews for transparency, and ensuring accessibility on low-end mobile devices. Lookal is specifically built to serve students, OFW families, and young professionals."
+      }
+    }
+  ]
+}
