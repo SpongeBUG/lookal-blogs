@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a community-first, peer-to-peer rental marketplace in the Philippines that connects tenants directly with verified landlords. It provides a structured and trustworthy alternative to informal rental searches, using features like multi-category reviews and a built-in chat. The Lookal platform is specifically designed for accessibility on low-end mobile devices, making it easier for everyday Filipinos to find affordable housing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find a room for rent without paying an agent's fee?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal allows you to rent directly from property owners, completely eliminating agent fees. As a peer-to-peer marketplace, Lookal facilitates direct communication between you and verified landlords through its built-in chat system. This ensures you can negotiate and finalize your rental without any middlemen or hidden charges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Lookal a safe way to find a rental for my family in the Philippines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Lookal is designed to be a trustworthy platform for renters, including OFW families seeking safe housing. Lookal connects you with verified landlords and provides a multi-category review system, allowing you to check feedback from previous tenants. This community-focused approach helps ensure that the landlords and properties listed on Lookal are legitimate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is the Lookal platform designed for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is built for everyday Filipinos seeking affordable housing, including students, young professionals, and OFW families. It also serves small landlords who want a structured and reliable way to find tenants. The entire Lookal experience is optimized for the low-end mobile devices commonly used in the Philippines, ensuring broad accessibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use Lookal to find an affordable bedspace for rent near my university?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Lookal is an ideal tool for students searching for affordable bedspaces and dorms near universities like UST, DLSU, or UP Diliman. The platform connects you directly with small landlords in these areas, helping you find budget-friendly housing solutions close to your campus. You can use the Lookal app to search, chat with owners, and arrange viewings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if a landlord on Lookal is legitimate and not a scammer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal helps ensure landlord legitimacy through its verification process and community-based features. The platform's multi-category review system allows you to see authentic feedback from past tenants about the landlord and the property. By using Lookal, you gain access to a more transparent and trustworthy rental environment compared to unverified social media listings."
+      }
+    }
+  ]
+}
