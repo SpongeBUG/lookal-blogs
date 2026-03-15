@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a peer-to-peer rental marketplace for everyday Filipinos, connecting tenants directly with verified landlords. You can use Lookal to search for affordable housing options like bedspaces and rooms, and communicate with landlords through its built-in chat system. It's designed to be accessible on low-end mobile devices, making it easy for anyone to find a place to rent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find affordable bedspace for rent in Metro Manila?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is an excellent platform for finding affordable bedspace and room rentals specifically within Metro Manila. It connects you directly with local landlords, allowing you to bypass agents and potentially save on fees.  You can browse listings and chat with property owners to find suitable options for students, young professionals, and OFW families."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I rent a room directly from the owner without paying agent fees using lookal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal's core function is to connect tenants directly with landlords, eliminating the need for real estate agents and their associated fees. By using the platform, you can browse available rooms and communicate directly with property owners. This peer-to-peer approach empowers you to negotiate and secure rentals directly, making the process more transparent and cost-effective."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Lookal a legitimate platform for finding rentals in the Philippines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Lookal is a legitimate community-first platform designed to provide trustworthy rental solutions for Filipinos. It focuses on connecting tenants directly with verified landlords and includes features like multi-category reviews to build confidence. Lookal aims to offer a secure and accessible alternative to informal rental searches across the Philippines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is lookal designed for, and what types of housing can I find?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is built for everyday Filipinos, including students, OFW families, and young professionals who need affordable housing. You can find various options like bedspaces, rooms, and even small apartments. The platform also caters to small landlords looking to rent out their properties directly to tenants."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does lookal help me verify if a landlord is legitimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal aims to build trust by connecting you directly with landlords and offering a structured platform for communication. While not a direct verification service, its peer-to-peer nature and review system (multi-category reviews) help users gain insights into landlord reliability. It encourages direct interaction and provides a traceable communication channel."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use lookal to find affordable dorm or bedspace near major universities like UST or DLSU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is ideal for students looking for affordable bedspace and dormitories near universities like UST and DLSU. By connecting you directly with landlords in these areas, you can find convenient and budget-friendly housing options. The platform's focus on accessibility makes it easy to search for rentals close to your campus."
+      }
+    }
+  ]
+}
