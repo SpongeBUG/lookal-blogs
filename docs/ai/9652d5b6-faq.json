@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal and what does it do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a community-first, peer-to-peer rental marketplace specifically for Filipinos. It connects tenants directly with verified landlords, offering a more affordable and trustworthy alternative to informal rental searches. Lookal focuses on making rental searches accessible, especially on low-end mobile devices common in the Philippines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find affordable bedspace or rooms for rent in the Philippines with lookal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can find affordable bedspace and rooms for rent across the Philippines by using lookal. The platform allows you to connect directly with landlords, bypassing traditional agents and their fees. This peer-to-peer approach on lookal is designed to provide cost-effective housing solutions for students, OFWs, and young professionals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lookal help OFWs find safe rental housing for their families near Manila?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lookal is designed to assist OFWs in finding safe and affordable housing for their families, particularly near major areas like Manila. By connecting you directly with verified landlords, lookal aims to provide a trustworthy rental experience. You can explore listings on lookal to find suitable options that meet your family's needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What features does lookal offer to ensure a good rental experience?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal differentiates itself with features like multi-category reviews and a built-in chat system, enhancing transparency and communication between tenants and landlords. This ensures you can gather insights from other users and communicate directly with property owners. These features on lookal are built to provide a structured and trustworthy rental process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is lookal a legitimate platform, and how do I know landlords are not scammers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a legitimate platform dedicated to providing a trustworthy rental marketplace. It focuses on connecting tenants with verified landlords to mitigate the risk of scams. The platform's community-first approach, including review systems, helps users assess the legitimacy of landlords and properties listed on lookal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find affordable dorm or bedspace rentals near major universities like UST, DLSU, or UP Diliman using lookal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is an excellent place to search for affordable dorms and bedspaces near popular universities like UST, DLSU, and UP Diliman. The platform connects students directly with landlords in these areas, often providing more budget-friendly options. You can browse lookal for specific listings tailored to student housing needs around these campuses."
+      }
+    }
+  ]
+}
