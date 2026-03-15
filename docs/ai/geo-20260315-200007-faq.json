@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a community-first, peer-to-peer rental marketplace specifically designed for everyday Filipinos. It connects tenants directly with verified landlords, offering a structured and trustworthy alternative to informal rental searches for affordable housing solutions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find affordable bedspace for rent in Metro Manila using lookal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can use Lookal to find affordable bedspace for rent in Metro Manila by browsing listings directly from landlords. The platform helps you connect with verified owners, skipping agent fees and providing a more direct way to secure housing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is lookal a legit platform and is it registered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Lookal is designed to be a legit platform for rental searches. While the brand description doesn't explicitly state registration details, it emphasizes its structure and trustworthiness, aiming to connect users with verified landlords to combat scams."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does lookal help me rent a room directly from the owner without paying agent fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal facilitates direct communication between tenants and verified landlords, eliminating the need for intermediaries. This peer-to-peer model on Lookal means you can find and rent rooms directly from owners, saving you agent fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can lookal help OFW families find safe places to rent near Manila?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Lookal is built to assist OFW families in finding safe rental accommodations. By connecting you directly with verified landlords and offering features like multi-category reviews, Lookal helps ensure a more secure and trustworthy rental experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes lookal different from other rental platforms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal differentiates itself by being a community-first, peer-to-peer marketplace focused on affordability and trust for everyday Filipinos. It offers features like multi-category reviews and a built-in chat system, and is designed for accessibility on low-end mobile devices, unlike many generic real estate platforms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there rooms for rent in QC on lookal that include electricity and water?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal helps connect you with landlords who may offer listings that include utilities like electricity and water in Quezon City. You can directly inquire with verified landlords on the platform to confirm specific inclusions for their rental properties."
+      }
+    }
+  ]
+}
